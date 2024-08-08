@@ -1,0 +1,32 @@
+news-aggregator/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   ├── models.py
+│   ├── forms.py
+│   └── templates/
+│       └── index.html
+├── config.py
+├── run.py
+└── requirements.txt
+
+
+
+requirements
+
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Flask-WTF
+requests
+beautifulsoup4
+nltk
+scikit-learn
+pandas
+numpy
+matplotlib
+tensorflow
+transformers
+gunicorn
+
